@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="NewsReader.Android\NewsReader.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.0123456789ABCDEF" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewsReader\ViewModels\FirstViewModel.cs">
+    <Files>
+      <File FileName="NewsReader\App.cs" Line="55" Column="55" />
+      <File FileName="NewsReader\ViewModels\FirstViewModel.cs" Line="11" Column="11" />
+      <File FileName="NewsReader.Android\Setup.cs" Line="4" Column="4" />
+      <File FileName="NewsReader.Android\Views\FirstView.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NewsReader.Android AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
